@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/krystalstowe/krystalstowe/blob/main/SWEbanner.png">
+
 ### Hi there 👋
 
 I'm Krystal, a full stack engineer. My pronouns are She/Her
