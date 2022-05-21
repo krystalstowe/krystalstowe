@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Krystal, a full stack engineer. My pronouns are She/Her
+
+I'm currently working on a few website for freelance clients.
+I'm currently learning JavaScript and refreshing my knowledge of Kotlin.
+I'm looking for help with finding issues in my code and cleaning up the code I create.
+
+Here's how to reach me:
+
 <!--
 **krystalstowe/krystalstowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
